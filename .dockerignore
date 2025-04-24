@@ -1,0 +1,44 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.dockerignore
+docker-compose.yml 
+compose.yml
+Dockerfile 
+
+# Arquivos de Ambiente 
+.env
+.env.*
+!*.env.example 
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.env/
+*.egg-info/
+dist/
+build/
+
+# Arquivos de IDE e OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs e Dados Temporários
+logs/
+*.log
+tmp/
+*.tmp
+*.temp
+*.cache
+*.session
