@@ -1,0 +1,24 @@
+# S.O.
+.DS_Store
+Thumbs.db
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# outros
+.env
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
