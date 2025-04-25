@@ -11,7 +11,6 @@ CREATE TABLE stg_pedidos_brutos (
     data_pedido TIMESTAMP,          -- data e hora exata do pedido
     quantidade INT,                 -- quantidade de itens deste produto no pedido
     preco_unitario DECIMAL(10, 2),  -- preço unitário do produto no momento do pedido
-
     -- atributos descritivos da origem do pedido
     nome_cliente VARCHAR(255),
     email_cliente VARCHAR(100),
