@@ -9,8 +9,6 @@ Este projeto demonstra a criação de um Data Mart de Vendas simplificado utiliz
 *   Processo ELT (Extract, Load, Transform) utilizando SQL puro.
 *   Criação de consultas analíticas SQL para extrair insights.
 
-Serve como um projeto prático para aprendizado e como peça de portfólio.
-
 ## Modelo de Dados: Star Schema
 
 <p align=center>
